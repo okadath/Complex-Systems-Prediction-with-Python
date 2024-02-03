@@ -1,18 +1,19 @@
-Prediccion de Sistemas Complejos con Python
+Complex Systems Prediction with Python
 =========================================
 
-Por medio de IPython se obtienen las soluciones de un sistema dinamico de prediccion de un problema de Economia Evolutiva para calcular la tasa de reproduccion de 2 competidores a lo largo del tiempo
+Using IPython, solutions are obtained for a dynamic prediction system of an Evolutionary Economics problem to calculate the reproduction rate of 2 competitors over time.
 
-Usos:
-+ Calculo cientifico
-+ Prediccion de series de tiempo
-+ Analisis economico
+Uses:
++ Scientific computation
++ Time series prediction
++ Economic analysis
 + Big Data
-+ Calculo de oferta y demanda en mercado
-+ Analisis demografico
++ Supply and demand calculation in market
++ Demographic analysis
+
 
 ![Solucion de sistema de ecuaciones](https://github.com/okadath/competencia_economica_python/blob/master/Screenshot.png)
 
-Soluciones exacta e iterativa del sistema:
+Exact and Iterative Solutions of the System:
 
 ![Mapa de gradiente del sistema](https://github.com/okadath/competencia_economica_python/blob/master/mapa1.png)
